@@ -85,6 +85,7 @@ fn ui(f: &mut ratatui::Frame, app: &mut App) {
 ## Apps using throbber-widgets-tui
 
 - [mntime](https://github.com/arkbig/mntime): Execute "m" commands "n" times to calculate mean of usage time and memory.  As an alternative to "time", "gnu-time" is used internally.
+- [ATAC](https://github.com/Julien-cpsn/ATAC) - A feature-full TUI API client for your terminal. Free, open-source, offline and account-less.
 
 ## Dependencies (By default)
 
